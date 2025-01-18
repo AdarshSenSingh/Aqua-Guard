@@ -12,7 +12,6 @@ def home():
     # Load the CSV file
     df = pd.read_csv('sensor_data.csv')
 
-    # Thresholds for peak hours and leaks
     flow_high_threshold = 300
     flow_low_threshold = 50
     pressure_leak_threshold = 1.5

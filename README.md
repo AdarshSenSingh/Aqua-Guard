@@ -4,6 +4,7 @@ attach loco scroll css ✅
 attach locomotive scroll min js ✅
 some code from loco github for js ✅
 
+demo video link: https://github.com/user-attachments/assets/d636b020-d526-4470-a765-9d4569a07e57
 
 
 Cynthia Ugwu Portfolio Frontpage Clone
